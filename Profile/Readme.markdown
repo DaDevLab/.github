@@ -22,7 +22,7 @@ All projects are in **early development**. Things may change rapidly, and feedba
 
 ## Connect
 
-- **Maintainer:** [Daven Chua](https://github.com/[your-username])
+- **Maintainer:** [Daven Chua](https://github.com/davenanother-pixel)
 - **Organization:** [DaDevLabs](https://github.com/DaDevLabs)
 
 ---
