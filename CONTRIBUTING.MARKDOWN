@@ -22,4 +22,4 @@ Reach out to Daven directly via GitHub.
 
 ---
 
-*Appreciate your patience as we lay the groundwork.*
+*Appreciate your patience as I lay the groundwork.*
